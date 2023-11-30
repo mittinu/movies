@@ -1,47 +1,47 @@
 {
     "movieInfo" : [
         {
-            "id" : 0,
+            "movieID" : 0,
             "title" : "Star Wars",
             "imageUrl" : "https://raw.githubusercontent.com/mittinu/movies/main/Images/starwars.jpeg"
         },
         {
-            "id" : 1,
+            "movieID" : 1,
             "title" : "God Father",
             "imageUrl" : "https://raw.githubusercontent.com/mittinu/movies/main/Images/godfather.jpeg"
         },
         {
-            "id" : 2,
+            "movieID" : 2,
             "title" : "Jaws",
             "imageUrl" : "https://raw.githubusercontent.com/mittinu/movies/main/Images/jaws.webp"
         },
         {
-            "id" : 3,
+            "movieID" : 3,
             "title" : "Babylon",
             "imageUrl" : "https://raw.githubusercontent.com/mittinu/movies/main/Images/babylon.webp"
         },
         {
-            "id" : 4,
+            "movieID" : 4,
             "title" : "Spider Man",
             "imageUrl" : "https://raw.githubusercontent.com/mittinu/movies/main/Images/spiderman.webp"
         },
         {
-            "id" : 5,
+            "movieID" : 5,
             "title" : "Rocky",
             "imageUrl" : "https://raw.githubusercontent.com/mittinu/movies/main/Images/rocky.webp"
         },
         {
-            "id" : 6,
+            "movieID" : 6,
             "title" : "Jurassic Park",
             "imageUrl" : "https://raw.githubusercontent.com/mittinu/movies/main/Images/jurassicpark.webp"
         },
         {
-            "id" : 7,
+            "movieID" : 7,
             "title" : "Avengers",
             "imageUrl" : "https://raw.githubusercontent.com/mittinu/movies/main/Images/avengers.webp"
         },
         {
-            "id" : 8,
+            "movieID" : 8,
             "title" : "Home Alone",
             "imageUrl" : "https://raw.githubusercontent.com/mittinu/movies/main/Images/homealone.webp"
         }
