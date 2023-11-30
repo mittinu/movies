@@ -1,5 +1,5 @@
 {
-    "data" : [
+    "screeningInfo" : [
       {"id" : 0, "title" : "Home Alone", "theater" : "E-Gong Gwan", "time" : "2023-12-12 13:00 ~ 14:30"},
       {"id" : 1, "title" : "Avengers", "theater" : "E-Gong Gwan", "time" : "2023-12-12 13:20 ~ 14:50"},
       {"id" : 2, "title" : "Godfather", "theater" : "E-Gong Gwan", "time" : "2023-12-12 13:40 ~ 15:10"},
