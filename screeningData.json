@@ -91,5 +91,5 @@
         {"id" : 97, "title" : "Spiderman", "theater" : "Shalom Gwan", "time" : "2023-12-14 18:20 ~ 19:50"},
         {"id" : 98, "title" : "Home Alone", "theater" : "Shalom Gwan", "time" : "2023-12-14 20:30 ~ 22:00"},
         {"id" : 99, "title" : "Godfather", "theater" : "Shalom Gwan", "time" : "2023-12-14 22:00 ~ 23:30"}
-      ];
+      ]
   }
